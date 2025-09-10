@@ -1,5 +1,6 @@
 package com.tnsif.qualifier;
 
-public class ShoppingMall {
+public interface ShoppingMall {
+	void purchase();
 
 }
